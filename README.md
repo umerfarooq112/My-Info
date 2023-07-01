@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umerfarooq112" alt="umerfarooq112" /></a> </p>
 
-- 🔭 I’m currently working on [an ERP web app.](https://hysabatv23.jmmtest.xyz/)
-
 - 🌱 I’m currently working in **React,Node,ExpressJs,Mongodb**
 
 <h3 align="left">Connect with me:</h3>
