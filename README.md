@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [an ERP web app.](https://hysabatv23.jmmtest.xyz/)
 
-- 🌱 I’m currently learning **Node,Express Js**
+- 🌱 I’m currently working in **React,Node,ExpressJs,Mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
